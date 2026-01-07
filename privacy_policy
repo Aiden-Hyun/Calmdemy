@@ -1,0 +1,83 @@
+# CalmNest Privacy Policy
+
+Last updated: January 7, 2026
+
+## Introduction
+
+CalmNest ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+
+## Information We Collect
+
+### Account Information
+When you create an account, we collect:
+- Email address
+- Name (if provided)
+- Authentication data from Google or Apple Sign-In (if used)
+
+### Usage Data
+We collect information about how you use the app:
+- Meditation sessions completed
+- Listening history
+- App preferences and settings
+- Session duration and frequency
+
+### Device Information
+We may collect:
+- Device type and operating system
+- App version
+- General location (country/region, not precise location)
+
+## How We Use Your Information
+
+We use your information to:
+- Provide and personalize your meditation experience
+- Track your progress and display statistics
+- Send relevant notifications (if enabled)
+- Improve our app and content
+- Respond to support requests
+
+## Data Storage and Security
+
+Your data is stored securely using Firebase (Google Cloud) with industry-standard encryption. We implement appropriate technical and organizational measures to protect your personal information.
+
+## Third-Party Services
+
+We use the following third-party services:
+- **Firebase** (Google) - Authentication and data storage
+- **Apple Sign-In** - Optional authentication
+- **Google Sign-In** - Optional authentication
+
+These services have their own privacy policies governing their use of your data.
+
+## Your Rights
+
+You have the right to:
+- Access your personal data
+- Correct inaccurate data
+- Delete your account and associated data
+- Export your data
+- Opt out of non-essential communications
+
+To exercise these rights, contact us at support@calmnest.app.
+
+## Data Retention
+
+We retain your data for as long as your account is active. If you delete your account, we will remove your personal data within 30 days, except where required by law.
+
+## Children's Privacy
+
+CalmNest is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy in the app and updating the "Last updated" date.
+
+## Contact Us
+
+If you have questions about this Privacy Policy, please contact us:
+
+Email: calm.nest.cs@gmail.com
+
+---
+
+© 2026 Aiden Hyun. All rights reserved.
